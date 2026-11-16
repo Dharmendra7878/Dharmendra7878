@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dharmendra Paroda
 ==========================================================================================================================================
 
-MERN Stack Developer & AI Integration Specialist
+Applied AI Research & Automation Associate & MERN Stack Developer
 ------------------------------------------------
 
 Results-driven MERN Stack Developer and Applied AI practitioner with industry experience managing digital infrastructure for an Educational platform . Driven to learn and conduct research in Artificial Intelligence, Machine Learning & Deep Learning.
