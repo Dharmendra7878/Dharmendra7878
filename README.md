@@ -11,11 +11,6 @@ Results-driven MERN Stack Developer and Applied AI practitioner with industry ex
 * 👥  I'm looking to collaborate on Research Projects
 * 💬  Ask me about I Want To Pursue Master’s degree in Artificial Intelligence (AI)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 
 <p align="left">
